@@ -1,4 +1,4 @@
-# Escolha-um-numero
+# Jogo do  Chute
 primeiro projeto, usando python.
 
 como o jogo funciona?
