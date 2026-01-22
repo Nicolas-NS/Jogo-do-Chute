@@ -1,9 +1,16 @@
 # Jogo do  Chute
-primeiro projeto, usando python.
+Como o jogo funciona?
 
-como o jogo funciona?
-o computador vai escolher um número de 1 a 100
-você precisa acerta qual número ele escolheu, fazendo chutes.
-a  maquína vai disser se você chutou um número muito alto ou muito baixo 
-do número desejado. use essa informações pra fazer chutes mais precisos e acerta
-o número. você tem 5 tentadivas e são apenas números inteiros. 
+O computador escolhe um número aleatório entre 1 e 100.
+O seu objetivo é adivinhar qual número foi escolhido, fazendo alguns chutes.
+
+A cada tentativa, a máquina vai te dizer se o número que você chutou é maior ou menor que o número correto.
+Use essas dicas para ajustar seus próximos chutes e chegar cada vez mais perto da resposta.
+
+⚠️ Regras do jogo:
+
+Você tem 5 tentativas;
+
+Apenas números inteiros são permitidos;
+
+Ganha quem acertar o número dentro do limite de tentativas.
